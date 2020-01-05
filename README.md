@@ -6,3 +6,4 @@ There are also information about patients who don't have diabetes also present i
 We replace the Type-1 diabetic patients as 1 ,Type-2 diabetic patients as 2 and the patients who don't have diabetes as 0
 for simplification purposes in our dataset.
 We then visalize the data and us our Decision Tree Algorithm for traininng and testing puposes and get our desired results.
+We can fix the random state of the training model at a point where we get the most desired output.This helps us to acive more accurarte results in the detection and makes our model strong.
